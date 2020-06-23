@@ -1,0 +1,14 @@
+{
+  "name": "cli-theory",
+  "version": "1.0.0",
+  "description": "The principle of scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cli-theory": "bin/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
